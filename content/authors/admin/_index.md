@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sebastián Sánchez Martínez
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sebastián
+last_name: [Sánchez Martínez](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America)
 
 # Status emoji
 status:
@@ -21,11 +21,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: TU Dresden
+    url: https://www.tu-dresden.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include  epistemology and the philosophy of language. I’m mainly interested in questions about how contextual factors help understand beliefs and certain types of reasoning that have been called irrational. More recently, I’ve been working on how gradual attitudes, like levels of confidence, are themselves related to contextual factors. As a side interest, I work on foundational and applied aspects of speech-act theory.
 
 # Interests to show in About widget
 interests:
