@@ -123,7 +123,7 @@ sections:
         author: ""
         category: ""
         tag: ""
-        exclude_featured: false
+        exclude_featured: true
         exclude_future: false
         exclude_past: false
         publication_type: ""
