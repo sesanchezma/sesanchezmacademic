@@ -80,7 +80,6 @@ sections:
           date_end: '2016-11-30'
           description: |2-
               Seminars:
-
               * Epistemic Contextualism
               * Translation Seminar, Plato, Republic, Book IX
     design:
