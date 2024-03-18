@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sebastian Sanchez Martinez
+title: Sebastián Sánchez Martínez
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -53,33 +53,33 @@ skills:
     items:
       - name: Epistemology
         description: ''
-        percent: 80
-        icon: python
+        percent: 90
+        icon: chart-line
         icon_pack: fab
       - name: Philosophy of Language
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 90
+        icon: language
         icon_pack: fas
       - name: R
         description: ''
         percent: 40
         icon: code-bracket
-        icon_pack: fas
+        icon_pack: hero
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#008000'
+    color_border: '#98fb98'
     items:
       - name: Blogging
         description: ''
         percent: 70
-        icon: hero/pencil
-        icon_pack: fas
+        icon: pencil
+        icon_pack: hero
       - name: Web Developing
         description: ''
         percent: 60
-        icon: hero/command-line
-        icon_pack: fas
+        icon: command-line
+        icon_pack: hero
       - name: Photography
         description: ''
         percent: 60
@@ -88,8 +88,8 @@ skills:
       - name: Gardening
         description: ''
         percent: 80
-        icon: hero/globe-europe-africa
-        icon_pack: fas      
+        icon: globe-europe-africa
+        icon_pack: hero      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -125,7 +125,9 @@ social:
 highlight_name: true
 ---
 
-Hi, I am [[Sebastián] [Sánchez Martínez]]. Philosophy is my business. This is my academic webpage.
+# Me, in <1min
+
+Hi, I am [[Sebastián] [Sánchez Martínez](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America)]. Philosophy is my business. This is my academic webpage.
 
 So, I’m a fourth-year PhD student with a DAAD-grant researching at the TU Dresden’s Institute of Philosophy. Before this, I worked a couple of years at the Universidad Tecnológica de Pereira.
 
