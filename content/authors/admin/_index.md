@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,62 +29,67 @@ bio: My research interests include  epistemology and the philosophy of language.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Rationality
+  - Epistemology (both normal and formal)
+  - Philosophy of Language
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Philosophy
+      institution: TU Dresden (Germany)
+      year: 2025
+    - course: MA in Philosophy
+      institution: Universidad del Valle (Colombia)
+      year: 2019
+    - course: BA in Philosophy
+      institution: Universidad de Antioquia (Colombia)
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Epistemology
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Philosophy of Language
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: R
         description: ''
         percent: 40
-        icon: database
+        icon: code-bracket
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Blogging
+        description: ''
+        percent: 70
+        icon: hero/pencil
+        icon_pack: fas
+      - name: Web Developing
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+        icon: hero/command-line
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera-retro
         icon_pack: fas
+      - name: Gardening
+        description: ''
+        percent: 80
+        icon: hero/globe-europe-africa
+        icon_pack: fas      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
