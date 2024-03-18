@@ -119,13 +119,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://sesanchezma.github.io/academic-cv/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-# Me, in <1min
 
 Hi, I am [[Sebastián] [Sánchez Martínez](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America)]. Philosophy is my business. This is my academic webpage.
 
