@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Me, in <1min
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -235,39 +235,38 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Contact form
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: sesanchezma@pm.me
+      phone: 
+      appointment_url: 'https://calendly.com/sesanchezma'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Zellescher Weg 17
+        city: Dresden
+        region: Sachsen
+        postcode: '01069'
+        country: Germany
+        country_code: DE
+      directions: BZW A426
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday 09:00 to 17:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '51.0292'
+        longitude: '13.7379'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          link: 'https://twitter.com/entrescu'
+        - icon: instagram
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          name: Follow Me
+          link: 'https://instagram.com/sesanchezma'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://us05web.zoom.us/j/6931248645'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
