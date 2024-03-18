@@ -152,8 +152,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Rationality
+          tag: Rationality
+        - name: Simplification
+          tag: Simplification
+        - name: Reasoning
+          tag: Reasoning
         - name: Other
           tag: Demo
     design:
