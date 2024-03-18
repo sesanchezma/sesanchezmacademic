@@ -199,7 +199,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+  - block: markdown
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -207,9 +207,6 @@ sections:
         {{% callout note %}}
         Navigate to the [events page](https://sesanchezma.com/event/).
         {{% /callout %}}
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
