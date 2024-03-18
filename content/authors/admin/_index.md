@@ -3,7 +3,7 @@
 title: Sebastian Sanchez Martinez
 
 # Name pronunciation (optional)
-name_pronunciation: Sebastián Sánchez Martínez
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Sebastián
