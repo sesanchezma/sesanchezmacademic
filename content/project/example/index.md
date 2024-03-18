@@ -2,7 +2,9 @@
 title: PhD Project
 summary: A Dissertation on the rationality of simplified reasoning
 tags:
-  - Deep Learning
+  - Rationality
+  - Reasoning
+  - Simplification
 date: '2024-01-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
