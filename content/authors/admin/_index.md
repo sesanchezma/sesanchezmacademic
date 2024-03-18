@@ -120,5 +120,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am [[Sebastián] [Sánchez Martínez]]. Philosophy is my business. This is my academic webpage.
+
+So, I’m a fourth-year PhD student with a DAAD-grant researching at the TU Dresden’s Institute of Philosophy. Before this, I worked a couple of years at the Universidad Tecnológica de Pereira.
+
+In short, my main research interests are in epistemology and the philosophy of language. I’m mainly interested in questions about how contextual factors help understand beliefs and certain types of reasoning that have been called irrational. More recently, I’ve been working on how gradual attitudes, like levels of confidence, are themselves related to contextual factors. As a side interest, I work on foundational and applied aspects of speech-act theory.
 {style="text-align: justify;"}
