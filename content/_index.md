@@ -203,9 +203,10 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      text: |-
+        {{% callout note %}}
+        Navigate to the [events page](https://sesanchezma.com/event/).
+        {{% /callout %}}
     design:
       columns: '2'
       view: compact
@@ -242,7 +243,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Follow Me
           link: 'https://twitter.com/entrescu'
         - icon: instagram
           icon_pack: fab
