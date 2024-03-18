@@ -8,7 +8,7 @@ tags:
 date: '2024-01-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://sesanchezma.github.io/2309-sophia/#/'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+slides: 'https://sesanchezma.github.io/2309-sophia/#/'
 ---
 
 On my doctoral project, I’m interested about questions on simple forms of reasoning (like heuristics) and how these are to be understood if we want to explain what we believe and how (or even whether) we are rational. As it turns out, these questions have also been asked by people in other scholarly areas, so I want to see what they have to say and how they can help me to better ask my questions.
