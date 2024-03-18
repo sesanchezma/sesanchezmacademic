@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-            - title: Lecturer in Informal Logic
+  - title: Lecturer in Informal Logic
           company: Tecnhical University of Pereira
           company_url: 'https://artes.utp.edu.co/licenciatura-bilinguismo/plan-de-estudios/'
           company_logo: org-utp
