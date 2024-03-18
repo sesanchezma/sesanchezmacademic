@@ -54,8 +54,8 @@ skills:
       - name: Epistemology
         description: ''
         percent: 90
-        icon: chart-line
-        icon_pack: fab
+        icon: diagram-project
+        icon_pack: fas
       - name: Philosophy of Language
         description: ''
         percent: 90
@@ -68,18 +68,18 @@ skills:
         icon_pack: hero
   - name: Hobbies
     color: '#008000'
-    color_border: '#98fb98'
+    color_border: '#3cb371'
     items:
       - name: Blogging
         description: ''
         percent: 70
         icon: pencil
-        icon_pack: hero
+        icon_pack: fas
       - name: Web Developing
         description: ''
         percent: 60
         icon: command-line
-        icon_pack: hero
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 60
@@ -88,8 +88,8 @@ skills:
       - name: Gardening
         description: ''
         percent: 80
-        icon: globe-europe-africa
-        icon_pack: hero      
+        icon: leaf
+        icon_pack: fas      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -101,19 +101,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/entrescu
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://philpeople.org/profiles/sebastian-sanchez-martinez
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sesanchezma
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/sesanchezma
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
