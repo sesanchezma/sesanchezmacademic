@@ -7,7 +7,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 first_name: Sebastián
-last_name: [Sánchez Martínez](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America)
+last_name: Sánchez Martínez
 
 # Status emoji
 status:
