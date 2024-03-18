@@ -62,11 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Lecturer
+          company: Dresden University of Technology
+          company_url: 'https://tu-dresden.de/gsw/phil/iphil/personen/uebersicht'
+          company_logo: 
+          location: Dresden - Germany
+          date_start: '2021-10-01'
+          date_end: '2022-02-15'
+          description: Taught a course on Nature and Nurture: the Locke vs. Leibniz Debate.
+    
         - title: Lecturer in Informal Logic
           company: Tecnhical University of Pereira
           company_url: 'https://artes.utp.edu.co/licenciatura-bilinguismo/plan-de-estudios/'
-          company_logo: org-utp
-          location: California
+          company_logo: 
+          location: Pereira - Colombia
           date_start: '2019-01-01'
           date_end: '2020-06-01'
           description: Taught informal logic to students of the BA in bilingualism.
