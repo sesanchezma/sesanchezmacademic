@@ -25,7 +25,7 @@ organizations:
     url: https://www.tu-dresden.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  epistemology and the philosophy of language. I’m mainly interested in questions about how contextual factors help understand beliefs and certain types of reasoning that have been called irrational. More recently, I’ve been working on how gradual attitudes, like levels of confidence, are themselves related to contextual factors. As a side interest, I work on foundational and applied aspects of speech-act theory.
+bio: I research with an interdisciplinary spirit on how contextual factors help understand beliefs and certain types of reasoning that have been called irrational.
 
 # Interests to show in About widget
 interests:
@@ -113,7 +113,7 @@ social:
     link: https://github.com/sesanchezma
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/sesanchezma
+    link: www.linkedin.com/in/sesanchezma
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -129,7 +129,7 @@ highlight_name: true
 
 Hi, I am [[Sebastián] [Sánchez Martínez](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America)]. Philosophy is my business. This is my academic webpage.
 
-So, I’m a fourth-year PhD student with a DAAD-grant researching at the TU Dresden’s Institute of Philosophy. Before this, I worked a couple of years at the Universidad Tecnológica de Pereira.
+So, I’m a fourth-year PhD student with a DAAD-grant researching at the [TU Dresden’s Institute of Philosophy](https://tu-dresden.de/gsw/phil/iphil/personen/uebersicht). Before this, I worked a couple of years at the [Universidad Tecnológica de Pereira](https://artes.utp.edu.co/licenciatura-bilinguismo/sin-categoria/mision/).
 
 In short, my main research interests are in epistemology and the philosophy of language. I’m mainly interested in questions about how contextual factors help understand beliefs and certain types of reasoning that have been called irrational. More recently, I’ve been working on how gradual attitudes, like levels of confidence, are themselves related to contextual factors. As a side interest, I work on foundational and applied aspects of speech-act theory.
 {style="text-align: justify;"}
