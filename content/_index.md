@@ -69,7 +69,7 @@ sections:
           location: Dresden - Germany
           date_start: '2021-10-01'
           date_end: '2022-02-15'
-          description: Taught a course on Nature and Nurture: the Locke vs. Leibniz Debate.
+          description: Taught a course on the Locke vs. Leibniz Debate on inateness.
     
         - title: Lecturer in Informal Logic
           company: Tecnhical University of Pereira
