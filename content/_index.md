@@ -65,7 +65,7 @@ sections:
         - title: Lecturer
           company: Dresden University of Technology
           company_url: 'https://tu-dresden.de/gsw/phil/iphil/personen/uebersicht'
-          company_logo: 
+          company_logo:
           location: Dresden - Germany
           date_start: '2021-10-01'
           date_end: '2022-02-15'
