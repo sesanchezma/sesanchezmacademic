@@ -83,7 +83,7 @@ sections:
         - title: Academic Visit
           company: IFFs-UNAM
           company_url: ''
-          company_logo: org-iff
+          company_logo:
           location: Mexico City
           date_start: '2016-08-01'
           date_end: '2016-11-30'
