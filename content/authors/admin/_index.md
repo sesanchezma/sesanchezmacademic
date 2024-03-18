@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sebastián Sánchez Martínez
+title: Sebastian Sanchez Martinez
 
 # Name pronunciation (optional)
 name_pronunciation: Sebastián Sánchez Martínez
