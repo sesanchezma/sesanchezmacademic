@@ -82,7 +82,7 @@ sections:
     
         - title: Academic Visit
           company: IFFs-UNAM
-          company_url: ''
+          company_url: 'https://www.filosoficas.unam.mx/'
           company_logo:
           location: Mexico City
           date_start: '2016-08-01'
@@ -91,21 +91,6 @@ sections:
               Seminars:
               * Epistemic Contextualism
               * Translation Seminar, Plato, Republic, Book IX
-    design:
-      columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
     design:
       columns: '2'
   - block: collection
