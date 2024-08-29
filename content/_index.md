@@ -160,13 +160,13 @@ sections:
       date_format: Jan 2006
       items:
       - title: A Consequentialist Model of Simplified Reasoning
-          company: TU Dresden
-          company_url: 'https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf'
-          company_logo: 
-          location: Dresden - GER
-          date_start: '2024-02-02'
-          date_end: '2024-02-02'
-          description: ''
+        company: TU Dresden
+        company_url: 'https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf'
+        company_logo: 
+        location: Dresden - GER
+        date_start: '2024-02-02'
+        date_end: '2024-02-02'
+        description: ''
 
       - title: Expresivismo sobre la credibilidad
         company: Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes
