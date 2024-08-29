@@ -154,8 +154,8 @@ sections:
     design:
       columns: '1'
   - block: experience
-    content:
     id: talks
+    content:
       title: Recent & Upcoming Talks
       - title: A Consequentialist Model of Simplified Reasoning
           company: TU Dresden
