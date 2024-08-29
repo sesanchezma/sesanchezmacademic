@@ -154,8 +154,8 @@ sections:
     design:
       columns: '1'
   - block: experience
-    id: talks
     content:
+    id: talks
       title: Recent & Upcoming Talks
       - title: A Consequentialist Model of Simplified Reasoning
           company: TU Dresden
@@ -164,30 +164,35 @@ sections:
           location: Dresden - GER
           date_start: '2024-02-02'
           date_end: '2024-02-02'
+
       - title: Expresivismo sobre la credibilidad
         company: Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes
         location: Bogotá - COL
         company_url: 'https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf'
         date_start: '2023-12-12'
         date_end: '2023-12-12'
+
       - title: Rational Simplified Reasoning in Beliefs
         company: SOPhiA Conference
         company_url: 'https://sesanchezma.github.io/2309-sophia/#'
         location: Salzburg - AT
         date_start: '2023-09-08'
         date_end: '2023-09-08'
+
       - title: Higher-order doubts in Simplified Reasoning
         company: Workshop in Theoretical Philosophy, TU Dresden
         company_url: 'https://sesanchezma.github.io/pdfs/slides/2307twp.pdf'
         location: Dresden - GER
         date_start: '2023-07-07'
         date_end: '2023-07-07'
+
       - title: Making Sense of Representativeness
         company: EpiJust2023, LMU München
         company_url: 'https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf'
         location: München - GER
         date_start: '2023-04-01'
         date_end: '2023-04-01'
+
       - title: Simplified (Epistemically) Rational Reasoning
         company: Workshop in Theoretical Philosophy, TU Dresden
         company_url: 'https://sesanchezma.github.io/2301tpw'
