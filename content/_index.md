@@ -159,6 +159,20 @@ sections:
       title: Recent & Upcoming Talks
       date_format: Jan 2 2006
       items:
+      - title: Reasoning At Play, Simplify Anyway
+        company: "XXVI. Deutscher Kongress für Philosophie"
+        company_url: 'https://www.uni-muenster.de/DKPhil2024/programm/index.html/'
+        location: Salzburg - AT
+        date_start: '2024-09-25'
+        date_end: '2024-09-25'
+
+      - title: Reasoning At Play, Simplify Anyway
+        company: "SOPhiA Conference 2024"
+        company_url: 'https://sophia-conference.org/'
+        location: Salzburg - AT
+        date_start: '2024-09-11'
+        date_end: '2024-09-11'
+        
       - title: A Consequentialist Model of Simplified Reasoning
         company: "[**Handout**] Workshop in theoretical Philosophy, TU Dresden"
         company_url: 'https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf'
@@ -173,11 +187,11 @@ sections:
         location: Bogotá - COL
         company_url: 'https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf'
         date_start: '2023-12-12'
-        date_end: ''
+        date_end: '2023-12-12'
         description: ''
 
       - title: Rational Simplified Reasoning in Beliefs
-        company: "[**Slides**] SOPhiA Conference"
+        company: "[**Slides**] SOPhiA Conference 2023"
         company_url: 'https://sesanchezma.github.io/2309-sophia/#'
         location: Salzburg - AT
         date_start: '2023-09-08'
