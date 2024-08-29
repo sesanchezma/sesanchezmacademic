@@ -157,6 +157,8 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      date_format: Jan 2006
+      items:
       - title: A Consequentialist Model of Simplified Reasoning
           company: TU Dresden
           company_url: 'https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf'
