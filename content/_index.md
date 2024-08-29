@@ -180,6 +180,7 @@ sections:
         location: Salzburg - AT
         date_start: '2023-09-08'
         date_end: '2023-09-08'
+        description: ''
 
       - title: Higher-order doubts in Simplified Reasoning
         company: Workshop in Theoretical Philosophy, TU Dresden
