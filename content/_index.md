@@ -164,6 +164,7 @@ sections:
           location: Dresden - GER
           date_start: '2024-02-02'
           date_end: '2024-02-02'
+          description: ''
 
       - title: Expresivismo sobre la credibilidad
         company: Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes
@@ -171,6 +172,7 @@ sections:
         company_url: 'https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf'
         date_start: '2023-12-12'
         date_end: '2023-12-12'
+        description: ''
 
       - title: Rational Simplified Reasoning in Beliefs
         company: SOPhiA Conference
@@ -185,6 +187,7 @@ sections:
         location: Dresden - GER
         date_start: '2023-07-07'
         date_end: '2023-07-07'
+        description: ''
 
       - title: Making Sense of Representativeness
         company: EpiJust2023, LMU München
@@ -192,6 +195,7 @@ sections:
         location: München - GER
         date_start: '2023-04-01'
         date_end: '2023-04-01'
+        description: ''
 
       - title: Simplified (Epistemically) Rational Reasoning
         company: Workshop in Theoretical Philosophy, TU Dresden
@@ -199,6 +203,7 @@ sections:
         location: Dresden - GER
         date_start: '2023-01-19'
         date_end: '2023-01-19'
+        description: ''
   - block: tag_cloud
     content:
       title: Popular Topics
