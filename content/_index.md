@@ -157,55 +157,55 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      date_format: Jan 2006
+      date_format: Jan 2 2006
       items:
       - title: A Consequentialist Model of Simplified Reasoning
-        company: TU Dresden
+        company: "[**Click for handout**] TU Dresden"
         company_url: 'https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf'
         company_logo: 
         location: Dresden - GER
         date_start: '2024-02-02'
-        date_end: '2024-02-02'
+        date_end: ''
         description: ''
 
       - title: Expresivismo sobre la credibilidad
-        company: Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes
+        company: "[**Click for handout**] Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes"
         location: Bogotá - COL
         company_url: 'https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf'
         date_start: '2023-12-12'
-        date_end: '2023-12-12'
+        date_end: ''
         description: ''
 
       - title: Rational Simplified Reasoning in Beliefs
-        company: SOPhiA Conference
+        company: "[**Click for slides**] SOPhiA Conference"
         company_url: 'https://sesanchezma.github.io/2309-sophia/#'
         location: Salzburg - AT
         date_start: '2023-09-08'
-        date_end: '2023-09-08'
+        date_end: ''
         description: ''
 
       - title: Higher-order doubts in Simplified Reasoning
-        company: Workshop in Theoretical Philosophy, TU Dresden
+        company: "[**Click for slides**] Workshop in Theoretical Philosophy, TU Dresden"
         company_url: 'https://sesanchezma.github.io/pdfs/slides/2307twp.pdf'
         location: Dresden - GER
         date_start: '2023-07-07'
-        date_end: '2023-07-07'
+        date_end: ''
         description: ''
 
       - title: Making Sense of Representativeness
-        company: EpiJust2023, LMU München
+        company: EpiJust2023, LMU München **Click for slides**
         company_url: 'https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf'
         location: München - GER
         date_start: '2023-04-01'
-        date_end: '2023-04-01'
+        date_end: ''
         description: ''
 
       - title: Simplified (Epistemically) Rational Reasoning
-        company: Workshop in Theoretical Philosophy, TU Dresden
+        company: "[**Click for slides**] Workshop in Theoretical Philosophy, TU Dresden"
         company_url: 'https://sesanchezma.github.io/2301tpw'
         location: Dresden - GER
         date_start: '2023-01-19'
-        date_end: '2023-01-19'
+        date_end: ''
         description: ''
   - block: tag_cloud
     content:
