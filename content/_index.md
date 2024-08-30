@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: talks
     content:
       title: Experience
       # Date format for experience
@@ -154,7 +155,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: publications
+    id: featured
     content:
       title: Recent Publications
       text: |-
@@ -270,10 +271,6 @@ sections:
         latitude: '51.0292'
         longitude: '13.7379'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Follow Me
-          link: 'https://twitter.com/entrescu'
         - icon: instagram
           icon_pack: fab
           name: Follow Me
