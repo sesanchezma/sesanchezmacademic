@@ -50,6 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
+  
   - block: experience
     id: talks
     content:
@@ -93,33 +94,6 @@ sections:
               * Epistemic Contextualism
               * Translation Seminar, Plato, Republic, Book IX
     design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: true
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
       columns: '2'
   - block: portfolio
     id: projects
@@ -169,7 +143,6 @@ sections:
     design:
       columns: '2'
       view: citation
-
   - block: experience
     id: talks
     content:
@@ -244,6 +217,33 @@ sections:
     content:
       title: Popular Topics
     design:
+      columns: '2'
+    - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: true
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
       columns: '2'
   - block: contact
     id: contact
