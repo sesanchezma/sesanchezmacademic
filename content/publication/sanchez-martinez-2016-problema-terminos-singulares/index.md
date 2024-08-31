@@ -9,5 +9,5 @@ publication_types:
 publication: '*En Los Límites de La Ciencia y La Filosofía*'
 links:
   - name: Link
-    url: 'philpapers.org/rec/RACELL'
+    url: 'https://philpapers.org/rec/RACELL'
 ---
