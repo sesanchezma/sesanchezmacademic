@@ -148,9 +148,10 @@ sections:
     content:
       title: Recent & Upcoming Talks
       text: |-
-        - **Reasoning At Play, Simplify Anyway**
+        - **Reasoning At Play, Simplify Anyway** [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/)
+
           XXVI. Deutscher Kongress für Philosophie
-          [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/)
+
           *September 25, 2024* - Salzburg, AT
 
         - **Reasoning At Play, Simplify Anyway**
