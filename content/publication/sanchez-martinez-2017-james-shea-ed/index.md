@@ -10,7 +10,7 @@ publication_types:
 publication: '*Ideas Y Valores*'
 links:
   - name: doi
-    url: 'http://10.15446/ideasyvalores.v66n165.68477'
+    url: 'http://doi.org/10.15446/ideasyvalores.v66n165.68477'
     icon_pack: fas
     icon: link
 ---
