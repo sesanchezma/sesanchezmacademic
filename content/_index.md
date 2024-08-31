@@ -171,7 +171,7 @@ sections:
         - **Rational Simplified Reasoning in Beliefs**
           SOPhiA Conference 2023
           [Slides](https://sesanchezma.github.io/2309-sophia/#)
-        *September 8, 2023* | Salzburg, AT
+          *September 8, 2023* | Salzburg, AT
 
         - **Higher-order doubts in Simplified Reasoning**
           Workshop in Theoretical Philosophy, TU Dresden
