@@ -148,16 +148,12 @@ sections:
     content:
       title: Recent & Upcoming Talks
       text: |-
-        - **Reasoning At Play, Simplify Anyway** [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/)
-
-          XXVI. Deutscher Kongress für Philosophie
-
-          *September 25, 2024* - Salzburg, AT
-
         - **Reasoning At Play, Simplify Anyway**
-          SOPhiA Conference 2024
-          [Event Link](https://sophia-conference.org/)
-          *September 11, 2024* - Salzburg, AT
+
+          XXVI. Deutscher Kongress für Philosophie [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) | September 25, 2024 - Salzburg, AT
+
+          SOPhiA Conference 2024 [Event Link](https://sophia-conference.org/) | September 11, 2024 - Salzburg, AT
+
 
         - **A Consequentialist Model of Simplified Reasoning**
           Workshop in theoretical Philosophy, TU Dresden
