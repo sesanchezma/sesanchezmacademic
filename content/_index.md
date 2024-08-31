@@ -152,18 +152,22 @@ sections:
           XXVI. Deutscher Kongress für Philosophie
           [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/)
           *September 25, 2024* | Salzburg, AT
+
         - **Reasoning At Play, Simplify Anyway**
           SOPhiA Conference 2024
           [Event Link](https://sophia-conference.org/)
           *September 11, 2024* | Salzburg, AT
+
         - **A Consequentialist Model of Simplified Reasoning**
           Workshop in theoretical Philosophy, TU Dresden
           [Handout](https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf)
           *February 2, 2024* | Dresden, GER
+
         - **Expresivismo sobre la credibilidad**
           Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes
           [Handout](https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf)
           *December 12, 2023* | Bogotá, COL
+          
         - **Rational Simplified Reasoning in Beliefs**
           SOPhiA Conference 2023
           [Slides](https://sesanchezma.github.io/2309-sophia/#)
@@ -182,7 +186,7 @@ sections:
         - **Simplified (Epistemically) Rational Reasoning**
           Workshop in Theoretical Philosophy, TU Dresden
           [Slides](https://sesanchezma.github.io/2301tpw)
-          "*January 19, 2023* | Dresden, GER"
+          *January 19, 2023* | Dresden, GER
   design:
     columns: '2'
   - block: tag_cloud
