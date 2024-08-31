@@ -10,4 +10,6 @@ publication: '*En Los Límites de La Ciencia y La Filosofía*'
 links:
   - name: Link
     url: 'https://philpapers.org/rec/RACELL'
+    icon_pack: fas
+    icon: link
 ---
