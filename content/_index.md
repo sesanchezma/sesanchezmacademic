@@ -184,9 +184,9 @@ sections:
           *April 1, 2023* | München, GER
 
         - **Simplified (Epistemically) Rational Reasoning**
-        Workshop in Theoretical Philosophy, TU Dresden
-        [Slides](https://sesanchezma.github.io/2301tpw)
-        *January 19, 2023* | Dresden, GER
+          Workshop in Theoretical Philosophy, TU Dresden
+          [Slides](https://sesanchezma.github.io/2301tpw)
+          *January 19, 2023* | Dresden, GER
   design:
     columns: '2'
   - block: tag_cloud
