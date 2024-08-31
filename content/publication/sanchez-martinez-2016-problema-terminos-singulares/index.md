@@ -7,5 +7,5 @@ publishDate: '2024-03-18T09:25:36.929219Z'
 publication_types:
 - chapter
 publication: '*En Los Límites de La Ciencia y La Filosofía*'
-url: 'philpapers.org/rec/RACELL'
+doi: 'philpapers.org/rec/RACELL'
 ---
