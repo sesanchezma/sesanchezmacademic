@@ -143,76 +143,52 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: experience
+  - block: markdown
     id: talks
     content:
-      title: Recent & Upcoming Talks
-      date_format: Jan 2 2006
-      items:
-      - title: Reasoning At Play, Simplify Anyway
-        company: "XXVI. Deutscher Kongress für Philosophie"
-        company_url: 'https://www.uni-muenster.de/DKPhil2024/programm/index.html/'
-        location: Salzburg - AT
-        date_start: '2024-09-25'
-        date_end: '2024-09-25'
+    title: Recent & Upcoming Talks
+    text:
+      - **Reasoning At Play, Simplify Anyway**
+        XXVI. Deutscher Kongress für Philosophie
+        [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/)
+        *September 25, 2024* | Salzburg, AT
 
-      - title: Reasoning At Play, Simplify Anyway
-        company: "SOPhiA Conference 2024"
-        company_url: 'https://sophia-conference.org/'
-        location: Salzburg - AT
-        date_start: '2024-09-11'
-        date_end: '2024-09-11'
-        
-      - title: A Consequentialist Model of Simplified Reasoning
-        company: "[**Handout**] Workshop in theoretical Philosophy, TU Dresden"
-        company_url: 'https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf'
-        company_logo: 
-        location: Dresden - GER
-        date_start: '2024-02-02'
-        date_end: '2024-02-02'
-        description: ''
+      - **Reasoning At Play, Simplify Anyway**
+        SOPhiA Conference 2024
+        [Event Link](https://sophia-conference.org/)
+        *September 11, 2024* | Salzburg, AT
 
-      - title: Expresivismo sobre la credibilidad
-        company: "[**Handout**] Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes"
-        location: Bogotá - COL
-        company_url: 'https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf'
-        date_start: '2023-12-12'
-        date_end: '2023-12-12'
-        description: ''
+      - **A Consequentialist Model of Simplified Reasoning**
+        Workshop in theoretical Philosophy, TU Dresden
+        [Handout](https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf)
+        *February 2, 2024* | Dresden, GER
 
-      - title: Rational Simplified Reasoning in Beliefs
-        company: "[**Slides**] SOPhiA Conference 2023"
-        company_url: 'https://sesanchezma.github.io/2309-sophia/#'
-        location: Salzburg - AT
-        date_start: '2023-09-08'
-        date_end: '2023-09-08'
-        description: ''
+      - **Expresivismo sobre la credibilidad**
+        Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes
+        [Handout](https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf)
+        *December 12, 2023* | Bogotá, COL
 
-      - title: Higher-order doubts in Simplified Reasoning
-        company: "[**Slides**] Workshop in Theoretical Philosophy, TU Dresden"
-        company_url: 'https://sesanchezma.github.io/pdfs/slides/2307twp.pdf'
-        location: Dresden - GER
-        date_start: '2023-07-07'
-        date_end: '2023-07-07'
-        description: ''
+      - **Rational Simplified Reasoning in Beliefs**
+        SOPhiA Conference 2023
+        [Slides](https://sesanchezma.github.io/2309-sophia/#)
+        *September 8, 2023* | Salzburg, AT
 
-      - title: Making Sense of Representativeness
-        company: "[**Slides**] EpiJust2023, LMU München"
-        company_url: 'https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf'
-        location: München - GER
-        date_start: '2023-04-01'
-        date_end: '2023-04-01'
-        description: ''
+      - **Higher-order doubts in Simplified Reasoning**
+        Workshop in Theoretical Philosophy, TU Dresden
+        [Slides](https://sesanchezma.github.io/pdfs/slides/2307twp.pdf)
+        *July 7, 2023* | Dresden, GER
 
-      - title: Simplified (Epistemically) Rational Reasoning
-        company: "[**Slides**] Workshop in Theoretical Philosophy, TU Dresden"
-        company_url: 'https://sesanchezma.github.io/2301tpw'
-        location: Dresden - GER
-        date_start: '2023-01-19'
-        date_end: '2023-01-19'
-        description: ''
-    design:
-      columns: '2'
+      - **Making Sense of Representativeness**
+        EpiJust2023, LMU München
+        [Slides](https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf)
+        *April 1, 2023* | München, GER
+
+      - **Simplified (Epistemically) Rational Reasoning**
+        Workshop in Theoretical Philosophy, TU Dresden
+        [Slides](https://sesanchezma.github.io/2301tpw)
+        *January 19, 2023* | Dresden, GER
+  design:
+    columns: '2'
   - block: tag_cloud
     content:
       title: Popular Topics
