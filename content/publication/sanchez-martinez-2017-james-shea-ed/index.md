@@ -11,6 +11,6 @@ publication: '*Ideas Y Valores*'
 links:
   - name: doi
     url: 'http://doi.org/10.15446/ideasyvalores.v66n165.68477'
-    icon_pack: fas
-    icon: link
+    icon_pack: ai
+    icon: doi
 ---

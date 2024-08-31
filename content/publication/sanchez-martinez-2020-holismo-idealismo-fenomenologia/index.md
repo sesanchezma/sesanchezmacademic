@@ -10,6 +10,6 @@ publication: '*Praxis Filosófica*'
 links:
   - name: doi
     url: 'http://doi.org/10.25100/pfilosofica.v0i50.8848'
-    icon_pack: fas
-    icon: link
+    icon_pack: ai
+    icon: doi
 ---
