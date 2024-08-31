@@ -147,7 +147,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      text:
+      text: |
         - **Reasoning At Play, Simplify Anyway**
           XXVI. Deutscher Kongress für Philosophie
           [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/)
