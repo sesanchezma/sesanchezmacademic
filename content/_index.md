@@ -147,7 +147,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      text: |
+      text: |-
         - **Reasoning At Play, Simplify Anyway**
           XXVI. Deutscher Kongress für Philosophie
           [Event Link](https://www.uni-muenster.de/DKPhil2024/programm/index.html/)
@@ -187,7 +187,7 @@ sections:
           Workshop in Theoretical Philosophy, TU Dresden
           [Slides](https://sesanchezma.github.io/2301tpw)
           *January 19, 2023* - Dresden, GER
-          
+
   design:
     columns: '2'
   - block: tag_cloud
