@@ -152,32 +152,32 @@ sections:
 
           [[Event Link]](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) XXVI. Deutscher Kongress für Philosophie | September 25, 2024 | Salzburg, AT
 
-          [[Event Link]](https://sophia-conference.org/) SOPhiA Conference 2024 | September 11, 2024 - Salzburg, AT
+          [[Event Link]](https://sophia-conference.org/) SOPhiA Conference 2024 | September 11, 2024 | Salzburg, AT
 
 
-        - {{< icon "fas fa-file-pdf" >}} [[Handout]](https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf) **A Consequentialist Model of Simplified Reasoning**
+        - [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf) **A Consequentialist Model of Simplified Reasoning**
 
           Workshop in theoretical Philosophy, TU Dresden
           
-          *February 2, 2024* - Dresden, GER
+          February 2, 2024 | Dresden, GER
 
-        - {{< icon "fas fa-file-pdf" >}} [[Handout]](https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf) **Expresivismo sobre la credibilidad**
+        - [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20131212-sesanchezma-expresivismo-credibilidad.pdf) **Expresivismo sobre la credibilidad**
 
           [[Link Evento]](https://math.uniandes.edu.co/eventos/2023/LENAEX/index.htm) Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes | *December 12, 2023* | Bogotá, COL
 
-        - {{< icon "fas fa-file-powerpoint" >}} [[Slides]](https://sesanchezma.github.io/2309-sophia/#) **Rational Simplified Reasoning in Beliefs**
+        - [[<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/2309-sophia/#) **Rational Simplified Reasoning in Beliefs**
 
           SOPhiA Conference 2023 | *September 8, 2023* | Salzburg, AT
 
-        - [[Slides]](https://sesanchezma.github.io/pdfs/slides/2307twp.pdf) **Higher-order doubts in Simplified Reasoning**
+        - [<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/pdfs/slides/2307twp.pdf) **Higher-order doubts in Simplified Reasoning**
 
           Workshop in Theoretical Philosophy, TU Dresden | *July 7, 2023* | Dresden, GER
 
-        - {{< icon "fas fa-file-powerpoint" >}}[[Slides]](https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf) **Making Sense of Representativeness**
+        - [<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf) **Making Sense of Representativeness**
 
           [Event Link](https://www.mcmp.philosophie.uni-muenchen.de/events/archive/2023_workshops_conferences/epistemic_justification_2023/index.html) EpiJust2023, LMU München | *April 1, 2023* | München, GER
 
-        - {{< icon "fas fa-file-powerpoint" >}}[[Slides]](https://sesanchezma.github.io/2301tpw) **Simplified (Epistemically) Rational Reasoning**
+        - [<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/2301tpw) **Simplified (Epistemically) Rational Reasoning**
 
           Workshop in Theoretical Philosophy, TU Dresden | *January 19, 2023* | Dresden, GER
       design:
