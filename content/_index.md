@@ -169,15 +169,15 @@ sections:
 
           SOPhiA Conference 2023 | *September 8, 2023* | Salzburg, AT
 
-        - [<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/pdfs/slides/2307twp.pdf) **Higher-order doubts in Simplified Reasoning**
+        - [[<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/pdfs/slides/2307twp.pdf) **Higher-order doubts in Simplified Reasoning**
 
           Workshop in Theoretical Philosophy, TU Dresden | *July 7, 2023* | Dresden, GER
 
-        - [<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf) **Making Sense of Representativeness**
+        - [[<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/pdfs/slides/2304-epijust.pdf) **Making Sense of Representativeness**
 
           [Event Link](https://www.mcmp.philosophie.uni-muenchen.de/events/archive/2023_workshops_conferences/epistemic_justification_2023/index.html) EpiJust2023, LMU München | *April 1, 2023* | München, GER
 
-        - [<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/2301tpw) **Simplified (Epistemically) Rational Reasoning**
+        - [[<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/2301tpw) **Simplified (Epistemically) Rational Reasoning**
 
           Workshop in Theoretical Philosophy, TU Dresden | *January 19, 2023* | Dresden, GER
       design:
