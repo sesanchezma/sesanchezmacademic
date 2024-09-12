@@ -150,9 +150,9 @@ sections:
       text: |-
         - **Reasoning At Play, Simplify Anyway**
 
-          [[Event Link]](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) XXVI. Deutscher Kongress für Philosophie | September 25, 2024 | Salzburg, AT
+          [[Event Link]](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) XXVI. Deutscher Kongress für Philosophie | September 25, 2024 | Münster, GER
 
-          [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240911_sophia_salzburg.pdf | [[Event Link]](https://sophia-conference.org/) SOPhiA Conference 2024 | September 11, 2024 | Salzburg, AT
+          [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240911_sophia_salzburg.pdf) | [[Event Link]](https://web.archive.org/web/20240909170332/https://sophia-conference.org/) SOPhiA Conference 2024 | September 11, 2024 | Salzburg, AT
 
 
         - [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf) **A Consequentialist Model of Simplified Reasoning**
@@ -165,7 +165,7 @@ sections:
 
           [[Link Evento]](https://math.uniandes.edu.co/eventos/2023/LENAEX/index.htm) Workshop (híbrido) Lenguaje, acción y expresividad, Universidad de Los Andes | *December 12, 2023* | Bogotá, COL
 
-        - [[<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/2309-sophia/#) **Rational Simplified Reasoning in Beliefs**
+        - [[<i class="fas fa-file-powerpoint"></i> Slides]](https://sesanchezma.github.io/2309-sophia/#)| [[Event Link]](https://web.archive.org/web/20230606175927/https://sophia-conference.org/) **Rational Simplified Reasoning in Beliefs**
 
           SOPhiA Conference 2023 | *September 8, 2023* | Salzburg, AT
 
