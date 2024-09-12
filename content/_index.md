@@ -152,7 +152,7 @@ sections:
 
           [[Event Link]](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) XXVI. Deutscher Kongress für Philosophie | September 25, 2024 | Salzburg, AT
 
-          [[Event Link]](https://sophia-conference.org/) SOPhiA Conference 2024 | September 11, 2024 | Salzburg, AT
+          [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240911_sophia_salzburg.pdf | [[Event Link]](https://sophia-conference.org/) SOPhiA Conference 2024 | September 11, 2024 | Salzburg, AT
 
 
         - [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240202_tud_workshop.pdf) **A Consequentialist Model of Simplified Reasoning**
