@@ -150,7 +150,7 @@ sections:
       text: |-
         - **Reasoning At Play, Simplify Anyway**
 
-          [[Event Link]](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) XXVI. Deutscher Kongress für Philosophie | September 25, 2024 | Münster, GER
+          [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240925_dkphil_muenster.pdf) | [[Event Link]](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) XXVI. Deutscher Kongress für Philosophie | September 25, 2024 | Münster, GER
 
           [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240911_sophia_salzburg.pdf) | [[Event Link]](https://web.archive.org/web/20240909170332/https://sophia-conference.org/) SOPhiA Conference 2024 | September 11, 2024 | Salzburg, AT
 
