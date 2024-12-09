@@ -148,6 +148,11 @@ sections:
     content:
       title: Recent & Upcoming Talks
       text: |-
+
+        - **Simplificación y Control Doxástico**
+
+          [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/202412_bogota_laex_workshop.pdf) | [[Event Link]](https://math.uniandes.edu.co/eventos/2024/LENAEX/index.html) 2° Workshop Lógica, Lenguaje y Acción | December 9, 2024 | Bogotá, Col
+          
         - **Reasoning At Play, Simplify Anyway**
 
           [[<i class="fas fa-file-pdf"></i> Handout]](https://sesanchezma.github.io/pdfs/slides/20240925_dkphil_muenster.pdf) | [[Event Link]](https://www.uni-muenster.de/DKPhil2024/programm/index.html/) XXVI. Deutscher Kongress für Philosophie | September 25, 2024 | Münster, GER
