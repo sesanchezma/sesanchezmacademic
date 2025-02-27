@@ -46,51 +46,6 @@ education:
       institution: Universidad de Antioquia (Colombia)
       year: 2014
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Epistemology
-        description: ''
-        percent: 90
-        icon: diagram-project
-        icon_pack: fas
-      - name: Philosophy of Language
-        description: ''
-        percent: 90
-        icon: language
-        icon_pack: fas
-      - name: R
-        description: ''
-        percent: 40
-        icon: code-bracket
-        icon_pack: hero
-  - name: Hobbies
-    color: '#008000'
-    color_border: '#3cb371'
-    items:
-      - name: Blogging
-        description: ''
-        percent: 70
-        icon: pencil
-        icon_pack: fas
-      - name: Web Developing
-        description: ''
-        percent: 60
-        icon: command-line
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 60
-        icon: camera-retro
-        icon_pack: fas
-      - name: Gardening
-        description: ''
-        percent: 80
-        icon: leaf
-        icon_pack: fas      
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
