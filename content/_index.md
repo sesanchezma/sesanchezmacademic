@@ -42,12 +42,6 @@ sections:
       title: Me, in <1min
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
     design:
       columns: '1'
   
